@@ -40,7 +40,7 @@ document.documentElement.innerHTML = `<html><head><link rel="icon" href="data:im
 <div class="items-main">
 <div class="items" id="items">
 <div class="patched">Error: This may have been patched</div>
-<div class="wrongpage">You are not on the correct page.<br>To use Ingot click the button below to redirect and run the bookmarklet again.<div class="item-left-buttons" style="justify-content: center; margin: 20px;">
+<div class="wrongpage">You are not on the correct page.<br>To use PyrogemX click the button below to redirect and run the bookmarklet again.<div class="item-left-buttons" style="justify-content: center; margin: 20px;">
 <div class="item-left-button" onclick="window.location='https://chrome.google.com/webstorex'">Redirect</div>
 </div></div>
 </div>
@@ -52,7 +52,7 @@ document.documentElement.innerHTML = `<html><head><link rel="icon" href="data:im
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
 * {
-	font-family: "Roboto";
+	font-family: "Sedan";
 }
 
 :root {
@@ -60,7 +60,7 @@ document.documentElement.innerHTML = `<html><head><link rel="icon" href="data:im
 }
 
 body {
-	background: #202124;
+	background: #1f1f39;
 	margin: 0;
 	padding: 0;
 }
