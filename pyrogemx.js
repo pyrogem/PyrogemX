@@ -68,7 +68,7 @@ body {
 .nav {
 	width: 100%;
 	height: 55px;
-	background: #292a2d;
+	background: #1f1f39;
 	border-bottom: 1px solid rgba(255, 255, 255, .1);
 	position: fixed;
 	top: 0;
@@ -94,7 +94,7 @@ body {
 }
 
 .nav-dev {
-	color: rgb(154, 160, 166);
+	color: rgb(254, 220, 133);
 	font-size: 13px;
 	margin-inline-end: calc(16px + 30px);
 	margin-bottom: 3px;
@@ -105,7 +105,7 @@ body {
 }
 
 .nav-title {
-	color: rgb(232, 234, 237);
+	color: rgb(254, 220, 133);
 	font-size: 22px;
 	letter-spacing: .25px;
 	line-height: normal;
@@ -164,7 +164,7 @@ body {
 
 .item-img-source {
 	align-items: center;
-	background: #f1592b;
+	background: #1f1f39;
 	border-radius: 50%;
 	box-shadow: 0 1px 1px 0 rgb(0 0 0 / 22%), 0 2px 2px 0 rgb(0 0 0 / 12%);
 	display: flex;
@@ -206,7 +206,7 @@ body {
 
 .item-title {
 	margin-inline-end: 8px;
-	color: rgb(232, 234, 237);
+	color: rgb(254, 220, 133);
 	white-space: nowrap;
 	margin-bottom: 4px;
 	font-size: 13px;
@@ -216,7 +216,7 @@ body {
 }
 
 .item-version {
-	color: rgb(154, 160, 166);
+	color: rgb(254, 220, 133);
 	font-size: 13px;
 	margin-bottom: 4px;
 	display: none;
@@ -228,7 +228,7 @@ body {
 }
 
 .item-description {
-	color: rgb(154, 160, 166);
+	color: rgb(254, 220, 133);
 	overflow: hidden;
 	text-overflow: ellipsis;
 	flex: 1;
